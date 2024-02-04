@@ -28,6 +28,7 @@ def display(item_list, customer_name, customer_address):
 # Store Item In List
 item_list = []
 
+#input from user
 print("\n\n")
 print("Hello Everyone.Welcome to Our Grocery Management System!......")
 customer_name = input("Enter your name       ")
